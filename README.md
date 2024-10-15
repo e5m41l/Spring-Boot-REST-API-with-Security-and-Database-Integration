@@ -32,10 +32,10 @@ This project is a secure RESTful API built with Spring Boot, leveraging Spring D
 5. Test API endpoints using Postman or a similar tool.
 
 ## API Endpoints
-- POST /api/employees: Create an entity
-- GET /api/employees/{id}: Get entity by ID
-- PUT /api/employees/{id}: Update entity
-- DELETE /api/employees/{id}: Delete entity
+- POST /api/employees: Create an employee
+- GET /api/employees/{id}: Get employee by ID
+- PUT /api/employees/{id}: Update employee
+- DELETE /api/employees/{id}: Delete employee
 ## Authentication
 - Basic Authentication with username and password.
 - Role-based access to endpoints (e.g., ADMIN vs. USER).
