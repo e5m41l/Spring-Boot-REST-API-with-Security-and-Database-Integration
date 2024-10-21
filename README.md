@@ -1,5 +1,5 @@
 # Spring Boot REST API with Security and Database Integration
-ToolShare is a web application for managing tool rentals. Whether you’re a DIY enthusiast or a professional contractor, ToolShare allows users to browse, rent, and return tools from a wide selection of equipment categories. Built with Node.js, Express, and MongoDB, ToolShare provides a scalable and efficient backend solution for managing rental services.
+This project is a secure RESTful API built with Spring Boot, leveraging Spring Data JPA and Spring Data REST to interact with a MySQL database. It provides CRUD operations along with authentication and authorization features, offering role-based access control for endpoints.
 
 ## Project Overview
 This project is a secure RESTful API built with Spring Boot, leveraging Spring Data JPA and Spring Data REST to interact with a MySQL database. It provides CRUD operations along with authentication and authorization features, offering role-based access control for endpoints.
